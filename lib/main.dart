@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Center(child: Text("I am Flutter")),
+          title: Center(child: Text("I am Flutter App")),
           backgroundColor: Colors.blueGrey[800],
         ),
         body: Center(
